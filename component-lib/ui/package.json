@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@vue/test-utils": "^2.4.6"
+  },
+  "dependencies": {
+    "async-validator": "^4.2.5"
+  }
+}
