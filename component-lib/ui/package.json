@@ -3,6 +3,7 @@
     "@vue/test-utils": "^2.4.6"
   },
   "dependencies": {
+    "@vuepic/vue-datepicker": "^11.0.2",
     "async-validator": "^4.2.5"
   }
 }
