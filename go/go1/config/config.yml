@@ -1,0 +1,6 @@
+app:
+  name: CurrencyExchangeApp
+  port: :3000
+
+database:
+  dsn: root:Root_123@tcp(47.112.109.9:3306)/text?charset=utf8mb4&parseTime=True&loc=Local

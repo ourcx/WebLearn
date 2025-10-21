@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@vitepress-demo-preview/component": "^2.3.2",
+    "@vitepress-demo-preview/plugin": "^1.4.0",
+    "vitepress-plugin-announcement": "^0.1.4"
+  },
+  "overrides": {
+    "vite": "4.4.9",
+    "@vitejs/plugin-vue": "4.3.4"
+  },
+  "devDependencies": {
+    "@giscus/vue": "^3.1.1",
+    "@vitejs/plugin-vue-jsx": "^5.0.0",
+    "unplugin-vue-macros": "^2.14.5",
+    "vitepress-theme-website": "^1.0.8"
+  }
+}
